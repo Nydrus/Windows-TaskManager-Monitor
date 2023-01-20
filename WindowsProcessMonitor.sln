@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsProcessMonitor", "WindowsProcessMonitor\WindowsProcessMonitor.csproj", "{1A2C5D13-7130-45DC-A0FC-C0071A3D98A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsProcessMonitor.Tests", "WindowsProcessMonitor.Tests\WindowsProcessMonitor.Tests.csproj", "{012AF70B-AE4F-4D86-9E20-80CC2D861FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2C5D13-7130-45DC-A0FC-C0071A3D98A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2C5D13-7130-45DC-A0FC-C0071A3D98A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2C5D13-7130-45DC-A0FC-C0071A3D98A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2C5D13-7130-45DC-A0FC-C0071A3D98A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012AF70B-AE4F-4D86-9E20-80CC2D861FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012AF70B-AE4F-4D86-9E20-80CC2D861FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012AF70B-AE4F-4D86-9E20-80CC2D861FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012AF70B-AE4F-4D86-9E20-80CC2D861FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60F4C2D-283C-4DF1-952D-F95657C556FA}
+	EndGlobalSection
+EndGlobal
