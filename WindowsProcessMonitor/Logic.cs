@@ -14,7 +14,9 @@ namespace WindowsProcessMonitor
 
         public void Run(string[] args)
         {
-            args = new string[]{"notepad","1", "1"}; // Testing purposes
+            args = new string[]{"notepad",  // <- Can be changed for another process name.
+                                "2",        // <- The amount of minutes a process can be running,without this tool killing it.
+                                "1"};       // <- The frequency (in minutes ) this tool will check process time.
 
             _logs = new ConsoleLogs();
             _logs.InitializationMessage();
