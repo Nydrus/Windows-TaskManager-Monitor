@@ -1,105 +1,209 @@
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\testhost.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.deps.json
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.runtimeconfig.json
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.exe
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\testhost.exe
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\NUnit3.TestAdapter.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\nunit.engine.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\nunit.engine.api.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\nunit.engine.core.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\testcentric.engine.metadata.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.Tests.deps.json
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.Tests.runtimeconfig.json
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.Tests.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.Tests.pdb
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\nunit.framework.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\bin\Debug\net7.0\WindowsProcessMonitor.pdb
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.csproj.AssemblyReference.cache
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.AssemblyInfoInputs.cache
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.AssemblyInfo.cs
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.csproj.CoreCompileInputs.cache
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.csproj.CopyComplete
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\refint\WindowsProcessMonitor.Tests.dll
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.pdb
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\WindowsProcessMonitor.Tests.genruntimeconfig.cache
-C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\obj\Debug\net7.0\ref\WindowsProcessMonitor.Tests.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/testhost.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.deps.json
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.runtimeconfig.json
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.exe
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/testhost.exe
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.engine.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.engine.api.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.engine.core.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/testcentric.engine.metadata.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.deps.json
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.runtimeconfig.json
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.pdb
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.framework.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.pdb
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.csproj.AssemblyReference.cache
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.AssemblyInfoInputs.cache
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.AssemblyInfo.cs
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.csproj.CoreCompileInputs.cache
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.csproj.CopyComplete
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/refint/WindowsProcessMonitor.Tests.dll
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.pdb
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.genruntimeconfig.cache
+C:/Users/micka/OneDrive/Área de Trabalho/Task/WindowsProcessMonitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/ref/WindowsProcessMonitor.Tests.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.engine.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.deps.json
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.runtimeconfig.json
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.deps.json
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.runtimeconfig.json
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.Tests.pdb
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/testhost.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/nunit.framework.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/bin/Debug/net7.0/WindowsProcessMonitor.pdb
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.csproj.AssemblyReference.cache
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.AssemblyInfoInputs.cache
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.AssemblyInfo.cs
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.csproj.CoreCompileInputs.cache
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.csproj.CopyComplete
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/refint/WindowsProcessMonitor.Tests.dll
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.pdb
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/WindowsProcessMonitor.Tests.genruntimeconfig.cache
+/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/obj/Debug/net7.0/ref/WindowsProcessMonitor.Tests.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2UvfBqpsGOZmQ0zhqW3Cj787QbQZ1W4cFU3tdUNSz2ZiEyzb+Om8bG8jiwov4Y8sYFwIxTC6aykKdXCTW+mUQ==",
+  "dgSpecHash": "6o4AatLA3Nkh/VFkzq2CInysvMDAfe3k02I3l5wDo7R6HhFgZmQIQcpc3jccnKPyBSeKOLTUtMvStYk3mBXEvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micka\\OneDrive\\Área de Trabalho\\Task\\WindowsProcessMonitor\\WindowsProcessMonitor\\WindowsProcessMonitor.csproj",
+  "projectFilePath": "/Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor/WindowsProcessMonitor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

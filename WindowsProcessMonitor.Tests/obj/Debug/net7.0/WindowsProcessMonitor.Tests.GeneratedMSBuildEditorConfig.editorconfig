@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WindowsProcessMonitor.Tests
-build_property.ProjectDir = C:\Users\micka\OneDrive\Área de Trabalho\Task\WindowsProcessMonitor\WindowsProcessMonitor.Tests\
+build_property.ProjectDir = /Users/miguelraposo/Desktop/task/Windows-TaskManager-Monitor/WindowsProcessMonitor.Tests/

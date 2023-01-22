@@ -18,7 +18,6 @@ namespace WindowsProcessMonitor
             _logs = new ConsoleLogs();
             _logs.InitializationMessage();
             ArgsCast(args);
-
             Console.ReadKey();
         }
         public bool ChangeSendErrorMessage(bool val)
