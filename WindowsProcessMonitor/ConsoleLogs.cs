@@ -4,16 +4,18 @@
     {
         public void InitializationMessage()
         {
-            if (Logic.sendErrorMessage == false)
-            {
-                Console.Write("To exit the tool, press");
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.Write(" q");
-                Console.WriteLine();
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("Initializing...");
-                Console.WriteLine();
-            }
+            Logic.ChangeInfoMessage(true);
+                if (Logic.infoMessage == true)
+                {
+                    Console.Write("To exit the tool, press");
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.Write(" q");
+                    Console.WriteLine();
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("Initializing...");
+                    Console.WriteLine();
+                }
+            Logic.ChangeInfoMessage(false);
         }
 
         public void ArgsErrorMessage()

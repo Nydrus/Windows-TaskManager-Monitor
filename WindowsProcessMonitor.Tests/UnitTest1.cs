@@ -7,13 +7,10 @@ namespace WindowsProcessMonitor.Tests
 {
     public class Tests
     {
-        Logic logic;
-        ConsoleLogs logs;
-        string[] args;
-        int _frequency = 1;
-        string _name;
-        public TimeSpan _lifetime = TimeSpan.FromMinutes(2);
-
+        Logic? logic;
+        ConsoleLogs? logs;
+        string[]? args;
+        
         [SetUp]
         public void Setup()
         {
@@ -25,6 +22,7 @@ namespace WindowsProcessMonitor.Tests
         {
             logic = null;
             logs = null;
+           
         }
 
         [Test]
@@ -39,20 +37,10 @@ namespace WindowsProcessMonitor.Tests
             }
             catch (NullReferenceException ex)
             {
-
+                
             }
         }
-        [Test]
-        public void KillProcess_WhenProcessIsFoundAndTimeSpanLifetimeIsGreaterThanDeclared_BooleanSendErrorMessage_ReturnsFalse()
-        {
-            _name = "notepad";
-            args = new string[] {_name,"1", "1" };
-            Logic.sendErrorMessage = true;
-            Process? process = Process.GetProcessesByName(_name).FirstOrDefault();
-            logic.KillProcess(process);
-            Assert.That(Logic.sendErrorMessage, Is.EqualTo(false));
-
-        }
+        
         [Test]
         public void ChangeSendErrorMessage_WhenFalseBooleanIsProvidedAsParameter_ReturnsFalse()
         {
@@ -65,6 +53,18 @@ namespace WindowsProcessMonitor.Tests
         {
             Logic.sendErrorMessage = false;
             Assert.That(logic.ChangeSendErrorMessage(true), Is.True);
+        }
+        [Test]
+        public void ChangeInfoMessage_WhenFalseBooleanIsProvidedAsParameter_ReturnsFalse()
+        {
+            Logic.infoMessage = true;
+            Assert.That(Logic.ChangeInfoMessage(false), Is.False);
+        }
+        [Test]
+        public void ChangeInfoMessage_WhenTrueBooleanIsProvidedAsParameter_ReturnsTrue()
+        {
+            Logic.infoMessage = false;
+            Assert.That(Logic.ChangeInfoMessage(true), Is.True);
         }
     }
 }

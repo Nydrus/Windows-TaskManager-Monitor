@@ -10,6 +10,7 @@ namespace WindowsProcessMonitor
         private int _frequency;
         private Timer _timer;
         public static bool sendErrorMessage = false;
+        public static bool infoMessage = false;
 
         public void Run(string[] args)
         {
@@ -22,11 +23,22 @@ namespace WindowsProcessMonitor
         }
         public bool ChangeSendErrorMessage(bool val)
         {
-            if (val == true) {
+            if (val == true)
+            {
                 sendErrorMessage= true;
                 return true;
             }
             sendErrorMessage= false;
+            return false;
+        }
+        public static bool ChangeInfoMessage(bool value)
+        {
+            if(value == true)
+            {
+                infoMessage = true;
+                return true;
+            }
+            infoMessage = false;
             return false;
         }
 
